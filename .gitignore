@@ -1,0 +1,11 @@
+# 概述：忽略运行缓存、依赖库和默认计算输出。
+__pycache__/
+*.pyc
+.venv/
+.Rhistory
+.RData
+.Rproj.user/
+r_library/
+inputs/PT/
+inputs/SACDI_model_params/
+inputs/SACDI_final_U30/
